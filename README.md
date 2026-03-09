@@ -52,3 +52,5 @@
 ## Connect
 
 - GitHub: https://github.com/Thimira-Hansana
+- Linkedin: www.linkedin.com/in/thimira-hansana-616a043b0
+- ResearchGate: https://www.researchgate.net/profile/Thimira-Hansana-2?ev=hdr_xprf
