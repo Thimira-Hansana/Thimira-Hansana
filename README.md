@@ -54,3 +54,4 @@
 - GitHub: https://github.com/Thimira-Hansana
 - Linkedin: www.linkedin.com/in/thimira-hansana-616a043b0
 - ResearchGate: https://www.researchgate.net/profile/Thimira-Hansana-2?ev=hdr_xprf
+- Instagram: https://www.instagram.com/hansana_wt?igsh=MWt1cHh4cjJtaGs5cw%3D%3D&utm_source=qr
