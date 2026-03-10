@@ -51,7 +51,26 @@
 
 ## Connect
 
-- GitHub: https://github.com/Thimira-Hansana
-- Linkedin: www.linkedin.com/in/thimira-hansana-616a043b0
-- ResearchGate: https://www.researchgate.net/profile/Thimira-Hansana-2?ev=hdr_xprf
-- Instagram: https://www.instagram.com/hansana_wt?igsh=MWt1cHh4cjJtaGs5cw%3D%3D&utm_source=qr
+<p align="center">
+
+<a href="https://github.com/Thimira-Hansana">
+<img src="https://skillicons.dev/icons?i=github" height="45">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/thimira-hansana-616a043b0">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.researchgate.net/profile/Thimira-Hansana-2">
+<img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="45">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/hansana_wt">
+<img src="https://skillicons.dev/icons?i=instagram" height="45">
+</a>
+
+</p>
+
