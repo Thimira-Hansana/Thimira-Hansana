@@ -172,17 +172,26 @@ My work spans web, mobile, and embedded systems, with a focus on creating soluti
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thimira-Hansana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Thimira-Hansana&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimira-Hansana&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Thimira-Hansana&theme=tokyonight&hide_border=true" width="860" alt="GitHub Streak" />
 </p>
 
+
+<table align="center">
+  <tr>
+    <td align="center" width="430">
+      <img src="https://github-readme-stats.vercel.app/api?username=Thimira-Hansana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="430" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="430">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimira-Hansana&layout=compact&theme=tokyonight&hide_border=true" width="430" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimira-Hansana&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f2cc60&area=true&hide_border=true&custom_title=Thimira%20Hansana%27s%20GitHub%20Activity" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimira-Hansana&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f2cc60&area=true&hide_border=true&custom_title=Thimira%20Hansana%27s%20GitHub%20Activity" width="860" alt="Activity Graph" />
 </p>
 
 ## Current Interests
