@@ -1,230 +1,335 @@
-<h1 align="center">Thimira Hansana</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Computer Science Undergraduate | AI/ML | IoT | Full-Stack Development</strong>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://github.com/Thimira-Hansana">
-    <img src="https://img.shields.io/badge/GitHub-Thimira--Hansana-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/thimira-hansana-616a043b0">
-    <img src="https://img.shields.io/badge/LinkedIn-Thimira%20Hansana-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Thimira-Hansana-2">
-    <img src="https://img.shields.io/badge/ResearchGate-Thimira%20Hansana-00CCBB?style=for-the-badge&logo=researchgate" alt="ResearchGate Badge" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thimira%20Hansana&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20CS%20Undergraduate%20%40%20NSBM&descAlignY=58&descSize=16&descColor=7dd3fc" width="100%"/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate;AI+%7C+Machine+Learning+%7C+IoT;Full-Stack+Developer;Building+Practical+and+High-Impact+Solutions;Interested+in+Research%2C+Software+Engineering%2C+and+Innovation" alt="Typing Animation" />
-</p>
-<p align="center">
- <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:0ea5e9&height=180&section=header&text=Transforming%20Ideas%20Into%20Reality&fontSize=38&fontColor=7DD3FC&animation=fadeIn&fontAlignY=40"
-  width="100%"
-/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+Developer+%7C+React+%2B+Node.js;IoT+%26+Embedded+Systems+Builder;Research-Oriented+Software+Engineer;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
+</a>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     SOCIAL BADGES                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Thimira--Hansana-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Thimira-Hansana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/in/thimira-hansana-616a043b0)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=00897b)](https://www.researchgate.net/profile/Thimira-Hansana-2)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=c13584)](https://www.instagram.com/hansana_wt)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Thimira-Hansana&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Thimira-Hansana?style=for-the-badge&color=1e40af&labelColor=0f172a&label=FOLLOWERS)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## About Me
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="62%" valign="top">
 
-I am a Computer Science Undergraduate at NSBM Green University with strong interests in Artificial Intelligence, Machine Learning, IoT, and Full-Stack Development. I enjoy building practical software solutions that combine intelligent systems, modern application development, and real-world usability.
+```yaml
+name:       Thimira Hansana
+location:   Sri Lanka 🇱🇰
+university: NSBM Green University
+degree:     BSc (Hons) Computer Science
+status:     Undergraduate — actively building
 
-<br><br>
+focus_areas:
+  - Artificial Intelligence & Machine Learning
+  - Full-Stack Web & Mobile Development
+  - IoT & Embedded Systems
+  - Software Engineering & System Design
+  - Research & Innovation
 
-My work spans web, mobile, and embedded systems, with a focus on creating solutions that are technically strong, user-oriented, and impactful.
+currently:
+  - Building AI-powered full-stack applications
+  - Exploring deep learning for real-world problems
+  - Working with Arduino & Raspberry Pi sensor systems
+  - Contributing to open-source & collaborative research
 
-## Professional Focus
+fun_fact: "I debug code at 2AM and call it productivity 🌙"
+```
 
-- Artificial Intelligence and Machine Learning
-- IoT and Embedded Systems
-- Full-Stack Web and Mobile Development
-- Software Engineering and System Design
-- Research and Innovation-Driven Projects
-
-
-## Core Tech Stack
-
-<table align="center">
-  <!-- Languages -->
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="65" height="65" alt="Apache Spark" />
-      <br>Spark
-    </td>
-  </tr>
-
-  <!-- Frameworks / Backend / Database -->
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="65" height="65" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="65" height="65" alt="Supabase" />
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="65" height="65" alt="MATLAB" />
-      <br>MATLAB
-    </td>
-  </tr>
-
-  <!-- Tools / Platforms -->
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="65" height="65" alt="Visual Studio" />
-      <br>Visual Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="65" height="65" alt="Android Studio" />
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="65" height="65" alt="Arduino" />
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="65" height="65" alt="Raspberry Pi" />
-      <br>Raspberry Pi
-    </td>
-  </tr>
+</td>
+<td width="4%"></td>
+<td width="34%" valign="middle" align="center">
+  <img
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+    width="100%"
+    alt="Coding GIF"
+    style="border-radius:12px;"
+  />
+</td>
+</tr>
 </table>
 
-## Engineering Areas
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0f172a?style=for-the-badge" alt="AI" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-1d4ed8?style=for-the-badge" alt="ML" />
-  <img src="https://img.shields.io/badge/IoT-0ea5e9?style=for-the-badge" alt="IoT" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-2563eb?style=for-the-badge" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Research-1e40af?style=for-the-badge" alt="Research" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+## Tech Stack & Tools
+
+<div align="center">
+
+<!-- ── Languages ─────────────────────────────────────────────── -->
+<table><tr><td align="center" colspan="9">
+  <sub><b>💬 &nbsp;LANGUAGES</b></sub>
+</td></tr><tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=python" width="45"/><br/><sub>Python</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=js" width="45"/><br/><sub>JavaScript</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=ts" width="45"/><br/><sub>TypeScript</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=java" width="45"/><br/><sub>Java</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=c" width="45"/><br/><sub>C</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=cs" width="45"/><br/><sub>C#</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=cpp" width="45"/><br/><sub>C++</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/><sub>SQL</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=dart" width="45"/><br/><sub>Dart</sub>
+  </td>
+</tr></table>
+
+<!-- ── Frameworks & Libraries ────────────────────────────────── -->
+<table><tr><td align="center" colspan="8">
+  <sub><b>🧩 &nbsp;FRAMEWORKS &amp; LIBRARIES</b></sub>
+</td></tr><tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=react" width="45"/><br/><sub>React</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/><sub>Node.js</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=express" width="45"/><br/><sub>Express</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=flutter" width="45"/><br/><sub>Flutter</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br/><sub>TensorFlow</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br/><sub>Scikit-learn</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="45"/><br/><sub>Spark</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/><br/><sub>MATLAB</sub>
+  </td>
+</tr></table>
+
+<!-- ── Databases & Cloud ──────────────────────────────────────── -->
+<table><tr><td align="center" colspan="6">
+  <sub><b>🗄️ &nbsp;DATABASES &amp; CLOUD</b></sub>
+</td></tr><tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/><sub>MongoDB</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/><sub>MySQL</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=firebase" width="45"/><br/><sub>Firebase</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=supabase" width="45"/><br/><sub>Supabase</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=docker" width="45"/><br/><sub>Docker</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=postgres" width="45"/><br/><sub>PostgreSQL</sub>
+  </td>
+</tr></table>
+
+<!-- ── Tools & Platforms ─────────────────────────────────────── -->
+<table><tr><td align="center" colspan="8">
+  <sub><b>🔧 &nbsp;TOOLS &amp; PLATFORMS</b></sub>
+</td></tr><tr>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=git" width="45"/><br/><sub>Git</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/><br/><sub>GitHub</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br/><sub>VS Code</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=figma" width="45"/><br/><sub>Figma</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=arduino" width="45"/><br/><sub>Arduino</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" width="45"/><br/><sub>Raspberry Pi</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br/><sub>Android Studio</sub>
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=linux" width="45"/><br/><sub>Linux</sub>
+  </td>
+</tr></table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               ENGINEERING DOMAINS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## Engineering Domains
+
+<div align="center">
+
+| Domain | Technologies | Focus |
+|:---|:---|:---|
+| 🤖 **AI / ML** | TensorFlow, scikit-learn, Python, Spark | Predictive models, NLP, CV |
+| 🌐 **Full-Stack Web** | React, Node.js, Express, MongoDB | Scalable SaaS, REST APIs |
+| 📱 **Mobile Dev** | Flutter, Firebase, Dart | Cross-platform apps |
+| 🔌 **IoT / Embedded** | Arduino, Raspberry Pi, C/C++ | Sensor systems, automation |
+| 🔬 **Research** | MATLAB, Python, Data Analysis | Innovation-driven projects |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB ANALYTICS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## GitHub Analytics
 
-<!-- STREAK (PROPERLY SMALL) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thimira-Hansana&theme=tokyonight&hide_border=true" width="680" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<!-- STATS + LANGUAGES -->
-<table align="center">
+<!-- Row 1: Stats + Languages — equal width, same height -->
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
-    <td align="center" width="340">
-      <img src="https://github-readme-stats.vercel.app/api?username=Thimira-Hansana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="340" alt="GitHub Stats" />
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Thimira-Hansana&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Thimira%27s+GitHub+Stats"
+        width="100%"
+        alt="GitHub Stats"
+      />
     </td>
-    <td align="center" width="340">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimira-Hansana&layout=compact&theme=tokyonight&hide_border=true" width="340" alt="Top Languages" />
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimira-Hansana&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&custom_title=Most+Used+Languages"
+        width="100%"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
 
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimira-Hansana&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f2cc60&area=true&hide_border=true&custom_title=Thimira%20Hansana%27s%20GitHub%20Activity" width="680" alt="Activity Graph" />
-</p>
+<br/>
 
-## Current Interests
+<!-- Row 2: Streak — centred, consistent width -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=Thimira-Hansana&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=a9fef7&dates=627987&sideNums=ffffff&currStreakNum=ffffff"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
-- Developing intelligent and data-driven applications
-- Building scalable full-stack systems
-- Working with embedded hardware and sensor-based solutions
-- Exploring practical AI integration in real-world domains
-- Contributing to research and technical innovation
+<br/><br/>
+
+<!-- Row 3: Activity Graph — full width -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Thimira-Hansana&theme=tokyo-night&hide_border=true&radius=12&custom_title=Contribution+Activity+Graph&area=true&area_color=0ea5e9"
+  width="100%"
+  alt="Activity Graph"
+/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              CURRENTLY WORKING ON                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## What I'm Currently Working On
+
+```
+🔭  Building AI-integrated full-stack applications
+🌱  Deepening expertise in deep learning and MLOps
+🤝  Open to collaborating on research & open-source projects
+📝  Writing technical documentation and research papers
+💡  Prototyping IoT systems with edge AI capabilities
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   CONNECT                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Thimira-Hansana">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thimira-hansana-616a043b0">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Thimira-Hansana-2">
-    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="45" alt="ResearchGate" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hansana_wt">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:0f172a&height=120&section=footer"
-  width="100%"
-/>
-</p>
+<a href="https://github.com/Thimira-Hansana">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/thimira-hansana-616a043b0">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.researchgate.net/profile/Thimira-Hansana-2">
+  <img src="https://img.shields.io/badge/ResearchGate-Collaborate-00ccbb?style=for-the-badge&logo=researchgate&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/hansana_wt">
+  <img src="https://img.shields.io/badge/Instagram-Follow-e1306c?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> *"The best way to predict the future is to build it."*  
+> — Computer Science, one commit at a time. 🚀
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FOOTER                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
