@@ -239,19 +239,18 @@ fun_fact: "I debug code at 2AM and call it productivity 🌙"
 
 <div align="center">
 
-<!-- Row 1: Stats + Languages — equal width, same height -->
 <table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td width="50%" align="center" valign="top">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Thimira-Hansana&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Thimira%27s+GitHub+Stats"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thimira-Hansana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
         width="100%"
         alt="GitHub Stats"
       />
     </td>
     <td width="50%" align="center" valign="top">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimira-Hansana&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&custom_title=Most+Used+Languages"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thimira-Hansana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
         width="100%"
         alt="Top Languages"
       />
@@ -261,23 +260,22 @@ fun_fact: "I debug code at 2AM and call it productivity 🌙"
 
 <br/>
 
-<!-- Row 2: Streak — centred, consistent width -->
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Thimira-Hansana&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=a9fef7&dates=627987&sideNums=ffffff&currStreakNum=ffffff"
-  width="70%"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=Thimira-Hansana&theme=tokyonight&hide_border=true"
+width="70%"
+alt="GitHub Streak"
 />
 
 <br/><br/>
 
-<!-- Row 3: Activity Graph — full width -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Thimira-Hansana&theme=tokyo-night&hide_border=true&radius=12&custom_title=Contribution+Activity+Graph&area=true&area_color=0ea5e9"
-  width="100%"
-  alt="Activity Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Thimira-Hansana&theme=tokyo-night&hide_border=true"
+width="100%"
+alt="Activity Graph"
 />
 
 </div>
+
 
 ---
 
