@@ -268,11 +268,9 @@ alt="GitHub Streak"
 
 <br/><br/>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Thimira-Hansana&theme=tokyo-night&hide_border=true"
-width="100%"
-alt="Activity Graph"
-/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thimira-Hansana/Thimira-Hansana/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 </div>
 
