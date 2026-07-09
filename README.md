@@ -320,7 +320,7 @@ alt="GitHub Streak"
 <br/><br/>
 
 > *"The best way to predict the future is to build it."*  
-> Computer Science, one commit at a time. 
+> Computer Science, one commit at a time. 👨‍💻
 
 </div>
 
