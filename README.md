@@ -243,14 +243,14 @@ fun_fact: "I debug code at 2AM and call it productivity 🌙"
   <tr>
     <td width="50%" align="center" valign="top">
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thimira-Hansana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thimira-Hansana&theme=tokyonight"
         width="100%"
         alt="GitHub Stats"
       />
     </td>
     <td width="50%" align="center" valign="top">
       <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thimira-Hansana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thimira-Hansana&theme=tokyonight"
         width="100%"
         alt="Top Languages"
       />
