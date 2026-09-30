@@ -11,7 +11,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+Developer+%7C+React+%2B+Node.js;IoT+%26+Embedded+Systems+Builder;Research-Oriented+Software+Engineer;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Computer+Science+Undergraduate+@NSBM;Temporary+Demonstrator+@UOR+Sri+Lanka;AI%2FML+%26+IoT+Research+Enthusiast;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer+%7C+React+%2B+Node.js;IoT+%26+Embedded+Systems+Builder;Research-Oriented+Software+Engineer;Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing SVG" />
 </a>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
